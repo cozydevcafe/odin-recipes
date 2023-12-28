@@ -2,6 +2,25 @@ body {
     background-color: lightblue;
 }
 
+.homepage-title {
+    text-align: center;
+    font-size: 48px;
+}
+
+.homepage-images {
+    text-align: center;
+}
+
+.homepage-img {
+    width: 425px;
+    height: 300px;
+    margin: 4px;
+}
+
+.navigation-container {
+    width: 325px;
+    margin: 0 auto;
+}
 .heading, .information, .directions {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 600;
