@@ -13,4 +13,4 @@ I learned the following:
 Items learned as I've progressed through The Odin Project
 
 - Basic CSS fundamentals
-- Using block and inline commments to add some style to the homepage of this site
+- Learning about the behavior of block and inline element to add some style to the homepage of this site
