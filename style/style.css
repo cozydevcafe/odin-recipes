@@ -18,8 +18,17 @@ body {
 }
 
 .navigation-container {
-    width: 325px;
+    width: 425px;
     margin: 0 auto;
+}
+
+.navigation-title {
+    font-size: 22px;
+    text-align: center;
+}
+
+.navigation-list {
+    margin-left: 50px;
 }
 .heading, .information, .directions {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
